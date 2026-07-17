@@ -27,6 +27,10 @@
       "$properties": {
         "FilteringEnabled": true
       },
+      "$path": "src/Workspace",
+      "StarterGui": {
+        "$path": "src/Startergui"
+      },
       "Baseplate": {
         "$className": "Part",
         "$properties": {
