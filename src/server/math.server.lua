@@ -3,3 +3,4 @@ function add(a, b)
 end
 local result = add(5, 3)
 print("Sum: " .. result)
+print("Welcome to new roblox game!")
